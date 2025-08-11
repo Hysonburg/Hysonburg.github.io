@@ -9,7 +9,7 @@
 🎓 Senior student at **Nanjing University of Finance & Economics**  
 💻 Major: **Computer Science and Technology**  
 📧 Email: **[jialiangwang2@163.com](mailto:jialiangwang2@163.com)**  
-🌐 GitHub: [https://github.com/yourusername](https://github.com/yourusername)  
+🌐 GitHub: [https://github.com/Hysonburg](https://github.com/Hysonburg)  
 
 This website is my online portfolio to share my skills, projects, and academic work. It is based on the Academic Pages Jekyll theme with my own customization.
 
