@@ -35,6 +35,8 @@ I focus on clean, maintainable code and enjoy tackling challenging programming p
 - Data visualization & automation  
 - AI & emerging technologies  
 
+![My Avatar](/images/avatar.jpg){: style="border-radius: 50%; width: 200px; box-shadow: 0px 0px 15px #00e0ff;" }
+
 ---
 
 ## 📬 Contact Me  
