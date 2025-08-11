@@ -17,7 +17,6 @@ redirect_from:
 I am passionate about software development, exploring new technologies, and creating efficient solutions to real-world problems.  
 I focus on clean, maintainable code and enjoy tackling challenging programming problems.  
 
-*(Avatar to be placed here)*
 
 ---
 
@@ -40,7 +39,7 @@ I focus on clean, maintainable code and enjoy tackling challenging programming p
 
 ## 📬 Contact Me  
 📧 Email: **[jialiangwang2@163.com](mailto:jialiangwang2@163.com)**  
-🌐 GitHub: [github.com/yourusername](https://github.com/yourusername)  
+🌐 GitHub: [github.com/yourusername](https://github.com/Hysonburg)  
 
 ---
 
