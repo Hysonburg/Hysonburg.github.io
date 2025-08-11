@@ -39,7 +39,7 @@ I focus on clean, maintainable code and enjoy tackling challenging programming p
 
 ## 📬 Contact Me  
 📧 Email: **[jialiangwang2@163.com](mailto:jialiangwang2@163.com)**  
-🌐 GitHub: [github.com/yourusername](https://github.com/Hysonburg)  
+🌐 GitHub: [github.com/Hysonburg](https://github.com/Hysonburg)  
 
 ---
 
